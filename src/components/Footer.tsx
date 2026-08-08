@@ -256,7 +256,7 @@ export const Footer: React.FC = () => {
             </span>
             <span className="text-slate-200 dark:text-slate-700">|</span>
             <span>
-              Developed by <a href="https://main.webmakerit.com" target="_blank" rel="noopener noreferrer" className="text-[#0A8F6A] font-bold hover:underline">WMIT</a>
+              <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
             </span>
           </div>
         </div>
