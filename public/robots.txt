@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pihu-medical-xi.vercel.app/sitemap.xml
